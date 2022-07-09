@@ -26,4 +26,9 @@ New York City's model for the bike sharing program makes a good case for replica
   * Destination Density
     * Are there sufficient places to work and visit in a specific area
   * Bike Friendliness
-    * Is the infrastructure in the area conducive to ridership with room for bike lanes and     
+    * Is the infrastructure in the area conducive to ridership with room for bike lanes and stations to park unused bikes
+  * Per capita income and vehicle ownership in the surrounding area
+    * Is subscribership a viable option financially
+    * Is bike share a viable option for daily commutes
+ 
+ 
