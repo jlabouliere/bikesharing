@@ -30,5 +30,5 @@ New York City's model for the bike sharing program makes a good case for replica
   * Per capita income and vehicle ownership in the surrounding area
     * Is subscribership a viable option financially
     * Is bike share a viable option for daily commutes
- 
+ Would recommend visualizations for per capita income, commute times into the area and vehicle ownership.
  
