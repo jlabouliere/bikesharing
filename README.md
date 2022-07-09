@@ -22,4 +22,8 @@ By and large rides last under 20 minutes, and male riders are taking over 60% of
 ![Screen Shot 2022-07-09 at 2 02 07 PM](https://user-images.githubusercontent.com/98665941/178124625-55c3c21a-4cff-4c21-8ce5-1c4c466df6ab.png)
 
 ## Summary
-New York City's model for the bike sharing program makes a good case for replication or expansion.  
+New York City's model for the bike sharing program makes a good case for replication or expansion.  In order for Des Moines to be a viable option, these considerations should be taken:
+  * Destination Density
+    * Are there sufficient places to work and visit in a specific area
+  * Bike Friendliness
+    * Is the infrastructure in the area conducive to ridership with room for bike lanes and     
