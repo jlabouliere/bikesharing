@@ -32,3 +32,4 @@ New York City's model for the bike sharing program makes a good case for replica
     * Is bike share a viable option for daily commutes
  Would recommend visualizations for per capita income, commute times into the area and vehicle ownership.
  
+[link to dashboard](https://public.tableau.com/shared/RXJ3RG26J?:display_count=n&:origin=viz_share_link)
