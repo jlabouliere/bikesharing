@@ -19,6 +19,8 @@ New York City's program benefits from a high rate of subscribed riders.  These r
 Male riders are the most consistent users of the Citi Bike program and male subscribers are the most prolific users.  Additionally the heavy usage up through 8am and after 4pm during the week indicate that the program is being used as a commute option.
 ![Screen Shot 2022-07-09 at 2 03 45 PM](https://user-images.githubusercontent.com/98665941/178124447-d713ad74-c73f-4967-bbb5-8085c2e039f8.png)
 By and large rides last under 20 minutes, and male riders are taking over 60% of these trips.
+![Screen Shot 2022-07-09 at 6 08 04 PM](https://user-images.githubusercontent.com/98665941/178125351-aa78d9cb-7349-4df7-b8a0-fba87cf99e6d.png)
+
 ![Screen Shot 2022-07-09 at 2 02 07 PM](https://user-images.githubusercontent.com/98665941/178124625-55c3c21a-4cff-4c21-8ce5-1c4c466df6ab.png)
 
 ## Summary
